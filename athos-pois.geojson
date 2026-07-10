@@ -1,0 +1,566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1602286, 40.3064102]
+      },
+      "properties": {
+        "name": "Είσοδος",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.160191, 40.3061941]
+      },
+      "properties": {
+        "name": "Βιβλιοθήκη",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1598438, 40.3063245]
+      },
+      "properties": {
+        "name": "Συνοδικό",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1597733, 40.3061]
+      },
+      "properties": {
+        "name": "Αρχονταρίκι",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1595901, 40.3058565]
+      },
+      "properties": {
+        "name": "Παρεκκλήσιο Αγ. Κυρίλλου και Μεθοδίου",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1597777, 40.3057563]
+      },
+      "properties": {
+        "name": "Τράπεζα",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.159659, 40.305613]
+      },
+      "properties": {
+        "name": "Μαγειρείο",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.159704, 40.305384]
+      },
+      "properties": {
+        "name": "Παρεκκλήσιο Αγ. Αρχαγγέλων",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.160351, 40.305493]
+      },
+      "properties": {
+        "name": "Κελιά Μοναχών",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.160096, 40.305656]
+      },
+      "properties": {
+        "name": "Καθολικό",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1603753, 40.3056994]
+      },
+      "properties": {
+        "name": "Πύργος Ρολογιού και Καμπαναριού",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.159991, 40.305848]
+      },
+      "properties": {
+        "name": "Φιάλη",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.16024, 40.305895]
+      },
+      "properties": {
+        "name": "Παρεκκλήσιο Κοιμήσεως της Θεοτόκου",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1604572, 40.3060845]
+      },
+      "properties": {
+        "name": "Παρεκκλήσιο Τιμίου Προδρόμου",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.160005, 40.306637]
+      },
+      "properties": {
+        "name": "Κίοσκι",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.160525, 40.307016]
+      },
+      "properties": {
+        "name": "Εξωτερικός ξενώνας",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.161502, 40.307238]
+      },
+      "properties": {
+        "name": "Βορδοναρείο",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.161429, 40.307951]
+      },
+      "properties": {
+        "name": "Κρήνη",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.163113, 40.300919]
+      },
+      "properties": {
+        "name": "Αγ. Απόστολοι",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.159807, 40.305104]
+      },
+      "properties": {
+        "name": "Φούρνος",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1511988, 40.2847197]
+      },
+      "properties": {
+        "name": "Πύργος αρσανά",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1518165, 40.2842784]
+      },
+      "properties": {
+        "name": "Ανεμόμυλος",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1509448, 40.2848927]
+      },
+      "properties": {
+        "name": "Εργατόσπιτο",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1599698, 40.3061114]
+      },
+      "properties": {
+        "name": "Μνημείο Οσιομαρτύρων",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1508568, 40.3089899]
+      },
+      "properties": {
+        "name": "Σπήλαιο Οσίου Κοσμά",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1574464, 40.3058026]
+      },
+      "properties": {
+        "name": "Ιερό κάθισμα Αγίου Γεωργίου",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1746979, 40.2885926]
+      },
+      "properties": {
+        "name": "Κρήνη",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.174604, 40.288608]
+      },
+      "properties": {
+        "name": "Κελιά μοναχών",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.17463, 40.288752]
+      },
+      "properties": {
+        "name": "Τράπεζα",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.174656, 40.28871]
+      },
+      "properties": {
+        "name": "Πύργος καμπαναριού",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1746312, 40.2888221]
+      },
+      "properties": {
+        "name": "Μαγειρείο",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1747876, 40.289008]
+      },
+      "properties": {
+        "name": "Παρεκκλήσι Αγίου Νικόλαου",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.175792, 40.288161]
+      },
+      "properties": {
+        "name": "Κοιμητήριο",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.175139, 40.28885]
+      },
+      "properties": {
+        "name": "Κελιά μοναχών",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.17493, 40.288694]
+      },
+      "properties": {
+        "name": "Καθολικό",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.175018, 40.2884736]
+      },
+      "properties": {
+        "name": "Αρχονταρίκι",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1752376, 40.2884148]
+      },
+      "properties": {
+        "name": "Παρεκκλήσι Αγ. Κωνσταντίνου",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1749571, 40.2889657]
+      },
+      "properties": {
+        "name": "Ηγουμενείο",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1740277, 40.2883814]
+      },
+      "properties": {
+        "name": "Κιόσκι",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1747626, 40.2885096]
+      },
+      "properties": {
+        "name": "Παρεκκλήσι Παναγίας Πορταίτισσας",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.174756, 40.288414]
+      },
+      "properties": {
+        "name": "Είσοδος",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1734744, 40.2885594]
+      },
+      "properties": {
+        "name": "Ι. Κάθισμα Αγ. Τριάδος",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1685132, 40.2830101]
+      },
+      "properties": {
+        "name": "Ι.Ν. Ανάληψης του Σωτήρος",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.174554, 40.28816]
+      },
+      "properties": {
+        "name": "Μύλος",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.172791, 40.266276]
+      },
+      "properties": {
+        "name": "Κιόσκι",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.172012, 40.267037]
+      },
+      "properties": {
+        "name": "Κοιμητηριακός Ναός Αγ. Νικολάου",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1740071, 40.2661676]
+      },
+      "properties": {
+        "name": "Εκκλησάκι Μεταμόρφωσης",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.173148, 40.266297]
+      },
+      "properties": {
+        "name": "Παρεκκλήσιο",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.173213, 40.266538]
+      },
+      "properties": {
+        "name": "Συνοδικό",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1725449, 40.2668447]
+      },
+      "properties": {
+        "name": "Πύργος Καμπαναριού",
+        "category": "Μονές/Διάφορα"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1725346, 40.2666919]
+      },
+      "properties": {
+        "name": "Παρεκκλήσιο Παναγίας",
+        "category": "Μονές/Διάφορα"
+      }
+    }
+  ]
+}
