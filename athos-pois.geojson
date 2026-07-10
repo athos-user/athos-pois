@@ -1,38 +1,368 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.381100, 40.169700]},"properties": {"name": "Μονή Μεγίστης Λαύρας","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.212400, 40.314500]},"properties": {"name": "Μονή Βατοπαιδίου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.174600, 40.288700]},"properties": {"name": "Μονή Ιβήρων","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.120800, 40.339800]},"properties": {"name": "Μονή Χιλανδαρίου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.201400, 40.237900]},"properties": {"name": "Μονή Διονυσίου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.246800, 40.253500]},"properties": {"name": "Μονή Κουτλουμουσίου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.290300, 40.161300]},"properties": {"name": "Μονή Παντοκράτορος","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.137200, 40.352100]},"properties": {"name": "Μονή Ξηροποτάμου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.178600, 40.258400]},"properties": {"name": "Μονή Ζωγράφου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.211900, 40.314700]},"properties": {"name": "Μονή Δοχειαρίου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.309600, 40.223800]},"properties": {"name": "Μονή Καρακάλλου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.290000, 40.245500]},"properties": {"name": "Μονή Φιλοθέου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.246900, 40.190500]},"properties": {"name": "Μονή Σιμωνόπετρας","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.274400, 40.168400]},"properties": {"name": "Μονή Αγίου Παύλου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.247500, 40.253100]},"properties": {"name": "Μονή Σταυρονικήτα","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.277500, 40.268100]},"properties": {"name": "Μονή Ξενοφώντος","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.255800, 40.179700]},"properties": {"name": "Μονή Γρηγορίου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.266900, 40.283600]},"properties": {"name": "Μονή Εσφιγμένου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.284700, 40.245900]},"properties": {"name": "Μονή Αγίου Παντελεήμονος","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.238900, 40.291600]},"properties": {"name": "Μονή Κωνσταμονίτου","category": "Μονή"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.290000, 40.146000]},"properties": {"name": "Σκήτη Αγίας Άννας","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.279700, 40.239800]},"properties": {"name": "Σκήτη Τιμίου Προδρόμου (Ρουμανική)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.237800, 40.266400]},"properties": {"name": "Σκήτη Αγίου Δημητρίου (Βατοπαιδινή)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.252700, 40.254300]},"properties": {"name": "Σκήτη Παντελεήμονος (Κουτλουμουσίου)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.311100, 40.129200]},"properties": {"name": "Σκήτη Προφήτη Ηλία (Παντοκράτορος)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.289500, 40.147900]},"properties": {"name": "Νέα Σκήτη","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.173500, 40.288600]},"properties": {"name": "Σκήτη Ιβηρική (Τιμίου Προδρόμου)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.276800, 40.268100]},"properties": {"name": "Σκήτη Ευαγγελισμού της Θεοτόκου","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.239000, 40.291600]},"properties": {"name": "Σκήτη Αγίου Ανδρέα (Σαράι)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.238900, 40.292300]},"properties": {"name": "Σκήτη Κοιμήσεως της Θεοτόκου (Μπογορόδιτσα)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.340400, 40.130400]},"properties": {"name": "Σκήτη Αγίας Τριάδος (Καυσοκαλύβια)","category": "Σκήτη"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.245300, 40.257500]},"properties": {"name": "Καρυές (Πρωτάτο)","category": "Σημείο Ενδιαφέροντος"}},
-    {"type": "Feature","geometry": {"type": "Point","coordinates": [24.222000, 40.214500]},"properties": {"name": "Δάφνη (Λιμάνι)","category": "Σημείο Ενδιαφέροντος"}}
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.3812, 40.1698]
+      },
+      "properties": {
+        "name": "Μονή Μεγίστης Λαύρας",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2127, 40.3146]
+      },
+      "properties": {
+        "name": "Μονή Βατοπαιδίου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1743, 40.2885]
+      },
+      "properties": {
+        "name": "Μονή Ιβήρων",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1209, 40.3399]
+      },
+      "properties": {
+        "name": "Μονή Χιλανδαρίου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2015, 40.2381]
+      },
+      "properties": {
+        "name": "Μονή Διονυσίου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2469, 40.2536]
+      },
+      "properties": {
+        "name": "Μονή Κουτλουμουσίου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2905, 40.1614]
+      },
+      "properties": {
+        "name": "Μονή Παντοκράτορος",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1375, 40.3522]
+      },
+      "properties": {
+        "name": "Μονή Ξηροποτάμου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1787, 40.2585]
+      },
+      "properties": {
+        "name": "Μονή Ζωγράφου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2121, 40.3148]
+      },
+      "properties": {
+        "name": "Μονή Δοχειαρίου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.3097, 40.2239]
+      },
+      "properties": {
+        "name": "Μονή Καρακάλλου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2901, 40.2456]
+      },
+      "properties": {
+        "name": "Μονή Φιλοθέου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2470, 40.1906]
+      },
+      "properties": {
+        "name": "Μονή Σιμωνόπετρας",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2745, 40.1685]
+      },
+      "properties": {
+        "name": "Μονή Αγίου Παύλου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2476, 40.2532]
+      },
+      "properties": {
+        "name": "Μονή Σταυρονικήτα",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2776, 40.2682]
+      },
+      "properties": {
+        "name": "Μονή Ξενοφώντος",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2559, 40.1798]
+      },
+      "properties": {
+        "name": "Μονή Γρηγορίου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2670, 40.2837]
+      },
+      "properties": {
+        "name": "Μονή Εσφιγμένου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2848, 40.2460]
+      },
+      "properties": {
+        "name": "Μονή Αγίου Παντελεήμονος",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2390, 40.2917]
+      },
+      "properties": {
+        "name": "Μονή Κωνσταμονίτου",
+        "category": "Μονή"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2901, 40.1461]
+      },
+      "properties": {
+        "name": "Σκήτη Αγίας Άννας",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2798, 40.2399]
+      },
+      "properties": {
+        "name": "Σκήτη Τιμίου Προδρόμου (Ρουμανική)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2379, 40.2665]
+      },
+      "properties": {
+        "name": "Σκήτη Αγίου Δημητρίου (Βατοπαιδινή)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2528, 40.2544]
+      },
+      "properties": {
+        "name": "Σκήτη Παντελεήμονος (Κουτλουμουσίου)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.3112, 40.1293]
+      },
+      "properties": {
+        "name": "Σκήτη Προφήτη Ηλία (Παντοκράτορος)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2896, 40.1480]
+      },
+      "properties": {
+        "name": "Νέα Σκήτη",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1736, 40.2887]
+      },
+      "properties": {
+        "name": "Σκήτη Ιβηρική (Τιμίου Προδρόμου)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2769, 40.2682]
+      },
+      "properties": {
+        "name": "Σκήτη Ευαγγελισμού της Θεοτόκου",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2391, 40.2917]
+      },
+      "properties": {
+        "name": "Σκήτη Αγίου Ανδρέα (Σαράι)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2390, 40.2924]
+      },
+      "properties": {
+        "name": "Σκήτη Κοιμήσεως της Θεοτόκου (Μπογορόδιτσα)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.3405, 40.1305]
+      },
+      "properties": {
+        "name": "Σκήτη Αγίας Τριάδος (Καυσοκαλύβια)",
+        "category": "Σκήτη"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2454, 40.2576]
+      },
+      "properties": {
+        "name": "Καρυές (Πρωτάτο)",
+        "category": "Σημείο Ενδιαφέροντος"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2221, 40.2146]
+      },
+      "properties": {
+        "name": "Δάφνη (Λιμάνι)",
+        "category": "Σημείο Ενδιαφέροντος"
+      }
+    }
   ]
 }
