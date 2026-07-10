@@ -8,7 +8,7 @@
         "coordinates": [24.3811, 40.1697]
       },
       "properties": {
-        "name": "Μεγίστης Λαύρας",
+        "name": "Μονή Μεγίστης Λαύρας",
         "category": "Μονή"
       }
     },
@@ -225,7 +225,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [24.2900, 40.1460]
+        "coordinates": [24.2897, 40.1479]
       },
       "properties": {
         "name": "Σκήτη Αγίας Άννας",
@@ -361,17 +361,6 @@
       },
       "properties": {
         "name": "Δάφνη (Λιμάνι)",
-        "category": "Σημείο Ενδιαφέροντος"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.1602, 40.3064]
-      },
-      "properties": {
-        "name": "Είσοδος Αγίου Όρους",
         "category": "Σημείο Ενδιαφέροντος"
       }
     }
