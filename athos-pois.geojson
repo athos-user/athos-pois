@@ -31,6 +31,7 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[24.199376,40.252646]},"properties":{"name":"Σκήτη Ευαγγελισμού της Θεοτόκου","category":"Σκήτη"}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[24.238980,40.291744]},"properties":{"name":"Σκήτη Κοιμήσεως της Θεοτόκου (Μπογορόδιτσα)","category":"Σκήτη"}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[24.239000,40.291600]},"properties":{"name":"Σκήτη Αγίου Ανδρέα (Σαράι)","category":"Σκήτη"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[24.318415,40.192467]},"properties":{"name":"Σκήτη Αγίου Δημητρίου (Λακκοσκήτη)","category":"Σκήτη"}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[24.340193,40.130400]},"properties":{"name":"Σκήτη Αγίας Τριάδος (Καυσοκαλύβια)","category":"Σκήτη"}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[24.245300,40.257500]},"properties":{"name":"Καρυές (Πρωτάτο)","category":"Σημείο Ενδιαφέροντος"}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[24.222000,40.214500]},"properties":{"name":"Δάφνη (Λιμάνι)","category":"Σημείο Ενδιαφέροντος"}}
